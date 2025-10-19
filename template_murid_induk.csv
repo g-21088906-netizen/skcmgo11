@@ -1,0 +1,11 @@
+NAMA,KELAS,TAHUN,JANTINA,NoKP,KEHADIR,RMT,BANTUAN,KWAMP,Biasiswa,YURAN_PIBG,STATUS_PIBG,YURAN_BUKU,STATUS_BUKU,BERUNIFORM,SUKAN,KELAB,NO_KELUARGA,SSDM,GURU_KELAS
+Ahmad Hakim,1 Marwah,1,L,06080000-10-1230,83,YA,KWAMP,YA,YA,35.00,Lunas,0.00,Pinjam,Pengakap Kanak-Kanak,Bola Sepak,Kelab Sains,FAM-1000,0,Cikgu Kamariah
+Aisyah Zahra,1 Safa,1,P,06080001-10-1231,99,TIDAK,,TIDAK,TIDAK,35.00,Tertunggak,0.00,Pinjam,Tunas Puteri,Badminton,Kelab Bahasa,FAM-1001,0,Cikgu Zainab
+Muhammad Danish,2 Marwah,2,L,06080002-10-1232,90,TIDAK,,TIDAK,TIDAK,35.00,Lunas,0.00,Belum,Bulan Sabit Merah,Olahraga,Kelab ICT,FAM-1002,0,Cikgu Zainab
+Nurul Iman,2 Safa,2,P,06080003-10-1233,82,YA,,TIDAK,TIDAK,35.00,Lunas,0.00,Belum,TKRS,Ping Pong,Kelab Seni,FAM-1003,0,Cikgu Ridzuan
+Aiman Syahmi,3 Marwah,3,L,06080004-10-1234,95,TIDAK,,TIDAK,TIDAK,35.00,Tertunggak,0.00,Beli,Puteri Islam,Bola Jaring,Kelab Muzik,FAM-1004,0,Cikgu Ridzuan
+Siti Maryam,3 Safa,3,P,06080005-10-1235,75,TIDAK,KWAMP,YA,TIDAK,35.00,Lunas,0.00,Beli,Pengakap Kanak-Kanak,Bola Sepak,Kelab Sains,FAM-1005,0,Cikgu Rahim
+Adam Firdaus,4 Safa,4,L,06080006-10-1236,86,YA,,TIDAK,TIDAK,35.00,Tertunggak,0.00,Beli,Tunas Puteri,Badminton,Kelab Bahasa,FAM-1006,1,Cikgu Rahim
+Farah Nabila,5 Marwah,5,P,06080007-10-1237,88,TIDAK,Biasiswa,TIDAK,YA,35.00,Tertunggak,0.00,Beli,Bulan Sabit Merah,Olahraga,Kelab ICT,FAM-1007,0,Cikgu Zainab
+Irfan Haikal,5 Safa,5,L,06080008-10-1238,75,TIDAK,,TIDAK,TIDAK,35.00,Tertunggak,0.00,Beli,TKRS,Ping Pong,Kelab Seni,FAM-1008,0,Cikgu Kamariah
+Balqis Hana,6 Marwah,6,P,06080009-10-1239,83,YA,,TIDAK,TIDAK,35.00,Tertunggak,0.00,Beli,Puteri Islam,Bola Jaring,Kelab Muzik,FAM-1009,0,Cikgu Kamariah
